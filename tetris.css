@@ -1,0 +1,10 @@
+td {
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+
+p {
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
